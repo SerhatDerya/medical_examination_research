@@ -1,5 +1,5 @@
 # Medical Examination Research
-### Description
+## Description
 The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices.
 
 | Feature | Variable Type | Variable      | Value Type |
@@ -17,7 +17,7 @@ The rows in the dataset represent patients and the columns represent information
 | Physical activity | Subjective Feature | active | binary |
 | Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
 
-### Tasks
+## Tasks
 #### 1) Preprocess
 * "cholesterol" and "gluc" variables' values turned into appropriate values.
 * "overweight" variable was added.
