@@ -16,3 +16,13 @@ The rows in the dataset represent patients and the columns represent information
 | Alcohol intake | Subjective Feature | alco | binary |
 | Physical activity | Subjective Feature | active | binary |
 | Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
+
+### Tasks
+1) Preprocess
+* "cholesterol" and "gluc" variables' values turned into appropriate values.
+* "overweight" variable was added.
+* Incorrect and outlier data was eliminated.
+
+2) Visualization
+* Data was converted to long format and a chart was created that shows the value counts of the categorical features. Chart was splitted by "cardio" variable.
+* A correlation matrix of the dataset was created and was used for creating a heatmap.
